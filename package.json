@@ -1,0 +1,20 @@
+{
+  "name": "learn-node-js-jifbrodeur",
+  "version": "1.0.0",
+  "description": "Node.js base Repository for Assignments",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DTharaka/learn-node-js-jifbrodeur.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DTharaka/learn-node-js-jifbrodeur/issues"
+  },
+  "homepage": "https://github.com/DTharaka/learn-node-js-jifbrodeur#readme"
+}
